@@ -8,11 +8,12 @@ permalink:  entering_the_field_of_programming
 
 This post discuss the process of getting into the Software Engineering feild.
 
-I will describing my own path to it.
-What your curiosity can do for you.
-The required technical skills.
-How to overcome challenges.
-Decisions.
+1. I will describing my own path to it.
+2. What your curiosity can do for you.
+3. The required technical skills.
+4. How to overcome challenges.
+5. Decisions.
+
 My Childhood
 When the brain kicked in to life, it was so much fun. I played with almost anything that was technical, broke almost anything that I played with and somehow managed to put it back. Lucky, my parents were very patient, they understood that I want something and this is my way to get it. Those moments engraved in me, I was encouraged to do it, and more so they assisted me. It was pleaser that only kids can appreciate.
 
@@ -36,9 +37,9 @@ Ask for help it’s much easier to lift an heavy item with two people the just b
 Decisions
 Let’s break this section
 
-Determination
-Actions
-Outcomes
+1. Determination
+2. Actions
+3. Outcomes
 To make a good decision. you will need to identify your goal. One of the most effective decision making strategies is to keep an eye on the goal. Gather information for weighing your options. Consider the consequences to their fullest extends.
 
 Take an action it is waht make things moves dont get stacjknin one place, at this point you already somewhat identified what’s your best option, go ahead and do it.
